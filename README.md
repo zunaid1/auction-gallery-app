@@ -1,7 +1,10 @@
 Source Code: 
-https://github.com/programming-hero-web-course1/b11a7-auction-gallery-zunaid1 
+https://github.com/zunaid1/auction-gallery-app
 
 
 Live Link: 
 https://auction-gallery1.netlify.app/
 
+
+
+https://zunaid1.github.io/auction-gallery-app/
