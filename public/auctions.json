@@ -1,0 +1,65 @@
+[
+	{
+	  "id": 1,
+	  "title": "Vintage Leica M3 Camera",
+	  "description": "Classic 35mm rangefinder camera, legendary build quality and optics.",
+	  "currentBidPrice": 200,
+	  "timeLeft": "2 Days left",
+	  "bidsCount": 12,
+	  "image": "https://i.ibb.co.com/kgZzK3MN/Bid1-min.png"
+	},
+	{
+	  "id": 2,
+	  "title": "1965 Gibson SG Standard Electric Guitar",
+	  "description": "Vintage electric guitar known for its tone and lightweight design.",
+	  "currentBidPrice": 300,
+	  "timeLeft": "2 Days left",
+	  "bidsCount": 18,
+	  "image": "https://i.ibb.co.com/kP0Nnf6/Bid2-min.png"
+	},
+	{
+	  "id": 3,
+	  "title": "Original Apple Macintosh 128K (1984)",
+	  "description": "The first Macintosh computer introduced by Apple in 1984.",
+	  "currentBidPrice": 100,
+	  "timeLeft": "2 Days left",
+	  "bidsCount": 9,
+	  "image": "https://i.ibb.co.com/mrqXFj7y/Bid3-min.png"
+	},
+	{
+	  "id": 4,
+	  "title": "Rolex Submariner 16610",
+	  "description": "Iconic luxury diving watch, stainless steel, automatic movement.",
+	  "currentBidPrice": 250,
+	  "timeLeft": "2 Days left",
+	  "bidsCount": 21,
+	  "image": "https://i.ibb.co.com/23rvwS0x/Bid4-min.png"
+	},
+	{
+	  "id": 5,
+	  "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+	  "description": "Rare first edition copy of the classic American novel.",
+	  "currentBidPrice": 100,
+	  "timeLeft": "2 Days left",
+	  "bidsCount": 7,
+	  "image": "https://i.ibb.co.com/wN31bL6P/Bid5-min.png"
+	},
+	{
+	  "id": 6,
+	  "title": "Mid–Century Modern Eames Lounge Chair",
+	  "description": "Authentic Eames lounge chair, timeless design and comfort.",
+	  "currentBidPrice": 100,
+	  "timeLeft": "2 Days left",
+	  "bidsCount": 11,
+	  "image": "https://i.ibb.co.com/chZGcVXN/Bid6-min.png"
+	},
+	{
+	  "id": 7,
+	  "title": "Banksy Original Screen Print",
+	  "description": "Original limited-edition Banksy artwork, authenticated.",
+	  "currentBidPrice": 500,
+	  "timeLeft": "2 Days left",
+	  "bidsCount": 15,
+	  "image": "https://i.ibb.co.com/rfs5xrqd/Bid7-min.png"
+	}
+  ]
